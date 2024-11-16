@@ -7,4 +7,7 @@ This project fine-tunes the BART-large-CNN model on the D0rj/WikiSum dataset to 
 - Training on the D0rj/WikiSum dataset of Wikipedia articles
 - Evaluation using ROUGE metrics
 
+Dataset Link: https://huggingface.co/datasets/knkarthick/dialogsum?row=70
+Model Link: https://huggingface.co/facebook/bart-large-cnn
+
 This repository demonstrates the application of advanced NLP techniques for text summarization tasks.
